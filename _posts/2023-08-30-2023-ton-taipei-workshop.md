@@ -14,6 +14,8 @@ related_posts: true
 featured: true
 ---
 
+📌📌 歡迎加入 <<[**TON DEV 中文 開發者群**](https://t.me/tondev_zh)>>📌📌 
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="https://hackmd.io/_uploads/SJxyhkk03.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
