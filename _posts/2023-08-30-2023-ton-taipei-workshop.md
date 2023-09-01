@@ -16,7 +16,7 @@ featured: true
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://image.blocktempo.com/2023/07/TON_PR_750x375-750x375.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="https://hackmd.io/_uploads/SJxyhkk03.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -26,7 +26,7 @@ featured: true
 
 **工作坊報導**： [點燃開發魂！TON Taipei工作坊啟動報名，最高獎金25萬美元](https://www.blocktempo.com/registration-for-ton-taipei-series-workshops-starts-now/)
 
-
+---
 
 ## 1. TON 工作坊活動詳情
 
@@ -115,6 +115,8 @@ featured: true
 | 21:20 - 21:30 | 工作坊總結       |
 | 21:30 - 22:00 | 自由交流         |
 
+---
+
 ## **4. 參賽 Demo Day**
 
 ### 📌 **4.1. 參賽須知**
@@ -133,8 +135,6 @@ featured: true
 - 🌐 **專案網站**：展示功能和界面 (非必須)。
 - 🎥 **專案展示影片** (非必須)。
 
-🎁 *所有在 Demo Day （9/22）展示的團隊均可獲得 SafePal 贊助的 SafePal S1 冷錢包。*
-
 ### 📋 **4.2. Demo Day 流程**
 
 1. **提交專案**：請在 2023/09/14 23:59 (UTC+8) 前提交至 [TON Workshop Demo Day 申請表單](https://forms.gle/YAL6m79zbkvmaNoV9)。
@@ -145,7 +145,23 @@ featured: true
 6. **評選**：評審將考慮內容、創新性和技術深度等因素。
 7. **🏆 公告**：活動結束後，我們將公佈獲獎者名單和獎品。
 
-### 📜 **4.3. Demo Day 智慧財產權聲明**
+### 📜 **4.3. Demo Day 獎勵**
+
+**TON Workshop台北站 總獎金 3000 U🔥** 
+
+* 🥇第一名：1500 U
+* 🥈第二名：1000 Ｕ
+* 🥉第三名：500 U
+
+🎁 *所有在 Demo Day （9/22）展示的團隊均可獲得 SafePal 贊助的 SafePal S1 冷錢包。*
+
+### 📜 **4.4. [TON 加速器計畫](https://blog.ton.org/ton-accelerator-program)**
+
+[TONcoin.Fund](https://toncoin.fund/) 提供總額高達 25 億美元的基金，專門支持TON的開發者，資金將投入至各個潛力項目，特別側重於去中心化金融（DeFi）的領域。
+
+**💎每個項目將獲得 50,000 美元至 250,000 美元不等的資金💎**
+
+### 📜 **4.5. Demo Day 智慧財產權聲明**
 
 - **專案權利屬性**：所有審查入圍的專案，其智慧財產權完全屬於該參賽團隊。
 - **參賽內容擔保**：所有參與 Demo Day 的團隊確保提交的所有資訊、提案、圖文、簡報及影音等，均不侵犯他人的智慧財產權、其他法定權利，也沒有違反任何法律規定。
@@ -154,6 +170,8 @@ featured: true
   * 主辦單位得於行銷媒體上修改、複製或編輯上述資料，並享有著作權法所規定的所有權利，無需另行通知參賽團隊。除非有誣衊情事，否則參賽團隊同意不對主辦單位行使著作人格權。
 - **活動中影像授權**：
   * 參與團隊同意主辦單位或協辦單位得於本活動進行期間，拍照、錄影或要求參賽團隊提供相關圖片或影片，用於本活動或相關活動的記錄、宣傳及行銷，並可在任何方式下公開展示上述資料。
+
+---
 
 ## 5. 相關文獻
 
@@ -166,12 +184,15 @@ featured: true
 * [快速上手了解智能合約 TON Blockchain](https://www.youtube.com/watch?v=BvM4eOaqklQ)
 * [Starter Kit For New TON Developer](https://bit.ly/45sHoxT)
 
+---
+
 ## 6. 主辦單位介紹
 
 * **🌐 TON Blockchain** ： TON 區塊鏈以其出色的可擴展性、革命性的無限分片技術和圖靈完備的智能合約能力聞名。其每秒的交易處理速度高達百萬 TPS。自 2021 年起，項目成功地由社群自發的 TON 基金會接手，承擔起開發和維護的重責大任。於 2022 年，基於基金會的努力，TON 生態系統持續穩定發展，新推出了 TON 錢包機器人功能，讓 Telegram 用戶能輕鬆進行 TON 交易，並可交易比特幣。同時也推出了去中心化的 NFT 市場 Fragment，用於拍賣 Telegram 用戶名、虛擬電話號碼等高熱度產品。[🔗 詳情請點擊](https://ton.org/)
 * **🏢 TON Foundation** ： TON 基金會致力於建立一個以個體主權、資本自由和言論自由為基礎的用戶生態系統。實現這一願景的方法包括：為關鍵項目提供資金支持、連接生態系統的成員和促進網絡的廣泛採納。基金會不僅支持社區建設活動，還透過如 Hack-a-TONx 這類活動，資助那些對 TON 生態系統作出卓越貢獻的人。[🔗 詳情請點擊](https://ton.org/)
 * **🚀 TonX Studio** ： 作為全球領先的 TON 創投工作室，TonX Studio 是由 TON 的早期核心開發者和風險投資者合作建立的。他們致力於開發創新的解決方案，為下一代網絡—TON 提供堅實的資源和支持。[🔗 詳情請點擊](https://www.tonx.studio/)
 
+---
 
 ## 官方社群連結
 * [TON Foundation 推特](https://twitter.com/ton_blockchain)
@@ -188,5 +209,5 @@ featured: true
 * 協辦單位：[動區動趨BlockTempo](https://www.blocktempo.com/)
 * 媒體夥伴：[CHAIN CATCHER](https://www.chaincatcher.com/)｜[Bitcoin Addict](https://bitcoinaddict.org/)｜[Foresight News](https://en.foresightnews.pro/)｜[PANews](https://www.panewslab.com/)
 * 社群協力夥伴：[BUIDLER DAO](https://buidlerdao.xyz/)｜[moledao](https://www.moledao.io/)｜[Assembly Partners](https://assembly.partners/)｜[SnapFingers](https://snapfingers.com/)
-* 贊助商：[SafePal ](https://www.safepal.com/)
+* 贊助商：[SafePal ](https://www.safepal.com/)、[ TonUp](https://tonup.io/)
 
