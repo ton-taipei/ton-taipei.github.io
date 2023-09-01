@@ -147,11 +147,11 @@ featured: true
 
 ### 📜 **4.3. Demo Day 獎勵**
 
-**TON Workshop台北站 總獎金 3000 U🔥** 
+**TON Workshop台北站 總獎金 3000 USDT 🔥** 
 
-* 🥇第一名：1500 U
-* 🥈第二名：1000 Ｕ
-* 🥉第三名：500 U
+* 🥇 第一名：1500 USDT
+* 🥈 第二名：1000 USDT
+* 🥉 第三名：500 USDT
 
 🎁 *所有在 Demo Day （9/22）展示的團隊均可獲得 SafePal 贊助的 SafePal S1 冷錢包。*
 
