@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: 首頁
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
